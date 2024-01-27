@@ -33,7 +33,7 @@ I am a developer navigating through the digital space one project at a time. All
    ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
    # 📊 GitHub Stats:
-  ![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=zmhs03&show_icons=true&theme=radical)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zmhs03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
