@@ -6,7 +6,7 @@
 
 **`Software Developer`**
 
-I am a developer navigating through the digital space one project at a time. All the project are built from scratch, from planning and designing to the implementation of the code.
+I am a developer navigating through the digital space one project at a time. All the projects are built from scratch, from planning and designing to the implementation of the code.
 
 <div align="center"> 
   <a href="mailto:zamahayise22@gmail.com">
